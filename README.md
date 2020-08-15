@@ -11,4 +11,4 @@
 - 🔥  Firebase
 - 🚀  Express | Jest
 - 🌷  Bootstrap| Material UI
-- 📫  Send me an email: liz@fluturecode.com
+- 📫  Contact me at: liz@fluturecode.com
