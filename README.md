@@ -1,6 +1,6 @@
 ### Welcome to FlutureCode 👋
 
-💪 Full Stack Developer that leans towards back end technologies.
+💪 I am a Full Stack Developer
 🍎 Currently learning Swift
 ✅ Next on the list, Python
 🛠 Tech Stack
