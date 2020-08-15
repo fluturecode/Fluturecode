@@ -1,8 +1,8 @@
 ### Welcome to FlutureCode 👋
 
-- 💪 - I am a Full Stack Developer
-- 🍎  Currently learning React & Swift
-- ✅  Next on the list, Python
+- 💪    I am a Full Stack Developer
+- 🍎    Currently learning React & Swift
+- ✅    Next on the list, Python
 - 🛠  Tech Stack
 - 👾  JavaScript | HTML | CSS
 - 🐒  ReactJS | Swift | JavaScript
