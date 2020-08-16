@@ -2,12 +2,12 @@
 
 - 💪   I am a Full Stack Developer
 - 👾  JavaScript | HTML | CSS
-- 🐒  ReactJS | JavaScript | Swift
-- 💻  Node.js | Bash
+- 🐒  ReactJS | Swift
+- 💻  Node.js | Express | Bash
 - 🦊  MongoDB | Mongoose
 - 🔥  Firebase
-- 🚀  Express | Jest
+- 🚀  Jest | Supertest
 - 🌷  Bootstrap| Material UI
-- 🍎   Currently learning React & Swift
-- ✅   Next on the list is Python 🐍
+- 🍎  Currently learning React & Swift
+- ✅  Next on the list is Python 🐍
 - 📫  Contact me at: liz@fluturecode.com
