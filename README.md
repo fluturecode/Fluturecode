@@ -2,7 +2,7 @@
 
 - 💪   I am a Full Stack Developer
 - 👾  HTML | CSS 
-- 🐒  ReactJS
+- 🐒  JavaScript | ReactJS
 - 🔮  Material-UI | Bootstrap
 - 💻  Node.js | Express | Bash
 - 🦊  MongoDB | Mongoose
