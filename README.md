@@ -10,5 +10,5 @@
 - 🚀  Jest | Supertest
 - 🌷  Bootstrap| Material UI
 - 🍎  Currently learning React
-- ✅  Next on the list is Swift
+- ✅  Next on the list is Python
 - 📫  Contact me at: liz@fluturecode.com
