@@ -3,6 +3,7 @@
 - 💪   I am a Full Stack Developer
 - 👾  HTML | CSS 
 - 🐒  JavaScript | ReactJS
+- 🌴  Context API | Redux
 - 🔮  Material-UI | Bootstrap
 - 💻  Node.js | Express | Bash
 - 🦊  MongoDB | Mongoose
