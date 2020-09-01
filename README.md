@@ -1,6 +1,6 @@
 ### Welcome, Bienvenido, Bienvenue, Willkomen, Welkom, Vitej, Üdvözlet,Bem-vindo, Bine ai venit, Добро пожаловать!, ようこそ, Добродошли, Ласкаво просимо!
 
-- 💪   I am a Full Stack Developer
+- 💪  Full Stack MERN Developer
 - 👾  HTML | CSS 
 - 🐒  JavaScript | ReactJS
 - 🌴  Context API | Redux
