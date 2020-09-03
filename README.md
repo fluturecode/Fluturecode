@@ -9,7 +9,6 @@
 - 🦊  MongoDB | Mongoose
 - 🔥  Firebase
 - 🚀  Jest | Supertest
-- 🌷  Bootstrap| Material UI
 - 🍎  Currently learning React
 - ✅  Next on the list is Python
 - 📫  Contact me at: liz@fluturecode.com
