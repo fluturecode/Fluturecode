@@ -2,7 +2,8 @@
 
 - 💪  Full Stack MERN Developer
 - 👾  HTML | CSS 
-- 🐒  JavaScript | ReactJS
+- 🐒  JavaScript 
+- 🤖  ReactJS | React Native
 - 🌴  Context API | Redux
 - 🔮  Material-UI | Bootstrap
 - 💻  Node.js | Express | Bash
