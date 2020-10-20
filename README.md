@@ -1,13 +1,13 @@
 ### Welcome, Bienvenido, Bienvenue, Willkomen, Welkom, Vitej, Üdvözlet,Bem-vindo, Bine ai venit, Добро пожаловать!, ようこそ, Добродошли, Ласкаво просимо!
 
-- 💪  Full Stack MERN Developer
+- 💪  Software Developer
 - 👾  HTML | CSS 
 - 🐒  JavaScript 
 - 🤖  ReactJS | React Native
 - 🌴  Context API | Redux
 - 🔮  Material-UI | Bootstrap
-- 💻  Node.js | Express | Bash
+- 💻  Node.js | Express | NestJs
 - 🦊  MongoDB | Mongoose
 - 🔥  Firebase | Firestore | Cloud Functions
-- 🚀  Jest | Supertest
+- 🚀  Jest | Supertest | Cypress
 - 📫  Contact me at: liz@fluturecode.com
