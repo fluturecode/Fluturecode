@@ -6,7 +6,7 @@
 - 🤖  ReactJS | React Native
 - 🌴  Context API | Redux
 - 🔮  Material-UI | Bootstrap
-- 💻  Node.js | Express | NestJs
+- 💻  NODEjs | Express | NESTjs
 - 🦊  MongoDB | Mongoose
 - 🔥  Firebase | Firestore | Cloud Functions
 - 🚀  Jest | Supertest | Cypress
