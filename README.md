@@ -8,6 +8,6 @@
 - 💻  Express | NODEjs | NESTjs
 - 🦊  MongoDB | Mongoose
 - 🔥  Firebase | Firestore | Cloud Functions
-- 🐒  AWS | Terraform
+- 🐒  AWS | Terraform | Heroku
 - 🚀  Jest | Supertest | Cypress
 - 📫  Contact me at: liz@fluturecode.com
