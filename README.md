@@ -5,7 +5,7 @@
 - 🤖  ReactJS | React Native
 - 🌴  Context API | Redux
 - 🔮  Material-UI | Bootstrap
-- 💻  Express | NODEjs | NESTjs
+- 💻  Express | NODEjs | NESTjs | Swagger
 - 🦊  MongoDB | Mongoose
 - 🔥  Firebase | Firestore | Cloud Functions
 - 🐒  AWS | Terraform | Heroku
