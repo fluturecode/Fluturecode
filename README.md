@@ -10,4 +10,4 @@
 - 🔥  Firebase | Firestore | Cloud Functions
 - 🐒  AWS | Terraform | Heroku
 - 🚀  Jest | Supertest | Cypress
-- 📫  Contact me at: liz@fluturecode.com
+- 📫  Contact me at: fluturecode@gmail.com
