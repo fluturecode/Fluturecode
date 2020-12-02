@@ -1,7 +1,8 @@
 ### Welcome, Bienvenido, Bienvenue, Willkomen, Welkom, Vitej, Üdvözlet,Bem-vindo, Bine ai venit, Добро пожаловать!, ようこそ, Добродошли, Ласкаво просимо!
 
 - 💪  Full-Satck Software Developer
-- 👾  HTML | CSS | JAVASCRIPT
+- 👾  Html | Css
+- 🕶  JavaScript | TypeScript
 - 🤖  ReactJS | React Native
 - 🌴  Context API | Redux
 - 🔮  Material-UI | Bootstrap
