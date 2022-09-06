@@ -1,3 +1,5 @@
 #### 🙋🏽‍♀️ Welcome, Bienvenido, Bienvenue, Willkomen, Welkom, Vitej, Üdvözlet,Bem-vindo, Bine ai venit, Добро пожаловать!, ようこそ, Добродошли, Ласкаво просимо ласкаво просимо!
 
-#### 👩🏽‍💻 HTML5, JavaScript, React, React Native, NodeJS, NextJS, Typescript, Solidity, Hardhat, Moralis, Sanity, Web3Js, EthersJs, Tailwind, Bootstrap, MaterialUI, Chakra, Testing Library, Cypress, MongoDB, Express, Firebase, Docker, Terraform, AWS, CircleCI, Python, Django.
+#### 👩🏽‍💻 Web2 - JavaScript, React, React Native, Python, NodeJS, NextJS, Typescript, Tailwind, Bootstrap, MaterialUI, Testing Library, Cypress, MongoDB, Express, Firebase, Docker, Terraform, AWS, CircleCI
+
+#### 👾 Web3 - Solidity, Hardhat, Moralis, Sanity, Web3Js, Rust
