@@ -2,4 +2,4 @@
 
 #### 👩🏽‍💻 Web2 - JavaScript, React, React Native, Python, Django, NodeJS, NextJS, Typescript, Tailwind, Bootstrap, MaterialUI, Testing Library, Cypress, MongoDB, Express, Firebase, Docker, Terraform, AWS, CircleCI
 
-####  Web3 - Solidity, Hardhat, Moralis, Sanity, Web3Js, EthersJs, Rust
+#### 🚀 Web3 - Solidity, Hardhat, Moralis, Sanity, Web3Js, EthersJs, Rust
